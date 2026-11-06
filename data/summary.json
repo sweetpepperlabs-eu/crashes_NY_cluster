@@ -1,0 +1,14 @@
+{
+  "crashes": 2247,
+  "killed": 2342,
+  "from": "2016-09-02",
+  "to": "2026-09-28",
+  "by_victim": {
+    "pedestrian": 1115,
+    "cyclist": 181,
+    "motorist": 828,
+    "other": 123
+  },
+  "filter": "persons_killed >= 1",
+  "source": "NYC Open Data, Motor Vehicle Collisions \u2014 Crashes"
+}
